@@ -1,0 +1,12 @@
+{
+ "Name": "Smooth Render",
+ "ID": "Smooth Render",
+ "Author": "latvianfarmer17 - Marks",
+ "Description": "This mod does not increase the game's overall speed! This mod enhances game visuals by adjusting the calculation of graphics elements like particles, wrinklers, shine, glimmer, milk, backgrounds, etc. It ensures smoother animations without affecting the game's logic speed.",
+ "ModVersion": 1.9,
+ "GameVersion": 2.053,
+ "Date": "05/10/2025",
+ "Dependencies": [],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1
+}

@@ -1,0 +1,13 @@
+{
+ "Name": "Custom Cookie",
+ "ID": "CustomCookie",
+ "Author": "Swbuwk",
+ "Description": "Customize your big cookie with images or animated GIFs. Upload a file or paste a link, then adjust zoom, image fit, rounding and shadow.",
+ "ModVersion": 2,
+ "GameVersion": 2.052,
+ "Date": "25/10/2026",
+ "Dependencies": [],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1,
+ "Workshop": "3357678293"
+}

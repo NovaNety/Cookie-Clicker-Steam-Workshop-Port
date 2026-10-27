@@ -1,0 +1,13 @@
+{
+ "Name": "Spacebar Clicker",
+ "ID": "spacebar clicker",
+ "Author": "glitchedlime",
+ "Description": "Allows you to click the cookie using your Spacebar! This mod doesn't disable Steam achievements.",
+ "ModVersion": 1.2,
+ "GameVersion": 2.04,
+ "Date": "12/09/2025",
+ "Dependencies": [],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1,
+ "Workshop": "3562454549"
+}

@@ -1,0 +1,13 @@
+{
+ "Name": "Background Calculation Optimizer",
+ "ID": "calc-optimizer",
+ "Author": "yukineko",
+ "Description": "Optimize calculation of the amount of cookies acquired during background",
+ "ModVersion": 2,
+ "GameVersion": 2.052,
+ "Date": "6/29/2024",
+ "Dependencies": [],
+ "LanguagePacks": ["lang.js"],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1
+}

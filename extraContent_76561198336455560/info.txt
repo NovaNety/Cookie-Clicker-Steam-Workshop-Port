@@ -1,0 +1,12 @@
+{
+ "Name": "Extra content mod",
+ "ID": "extraContent",
+ "Author": "Lookas",
+ "Description": "This mod adds extra content to the game in large amounts, thousands of hours of it.",
+ "ModVersion": 1.01,
+ "GameVersion": 2.048,
+ "Date": "10/11/2022",
+ "Dependencies": [],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1
+}

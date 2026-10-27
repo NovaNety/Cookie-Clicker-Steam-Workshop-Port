@@ -1,0 +1,10 @@
+{
+ "Name": "Unique Grandma icons",
+ "ID": "cws-uniqueGrandmas",
+ "Author": "Camwoodstock & Tori",
+ "Description": "A mod that changes the icons for various grandma-related upgrades and achievements to look a bit more unique.",
+ "ModVersion": 2,
+ "GameVersion": 2.052,
+ "Date": "09/05/2022",
+ "AllowSteamAchievs": 1
+}
